@@ -1,19 +1,14 @@
 # Skadi's Veil
 
-A visually stunning, heavily curated Skyrim overhaul built for immersion — gorgeous ENB/Lux lighting, lush 3D flora, and sweeping landscapes, paired with fluid MCO/ADXP combat, smarter AI, and re[...]
+Skadi's Veil is a visually stunning, heavily curated Skyrim overhaul built for immersion.
+Expect gorgeous ENB/Lux lighting, lush 3D flora, and sweeping, beautiful landscapes,
+paired with fluid MCO/ADXP combat, smarter AI (SCAR, Valhalla Combat), and
+reworked cities (JK's, Great Cities, Snazzy interiors) plus dozens of new locations. A
+roster of fully-voiced followers, expanded creature variety, and beloved quest mods
+(Legacy of the Dragonborn, Vigilant, Forgotten City, Project AHO) round out a world that feels alive and
+dangerous.
 
 **Status:** Work in progress. Full readme coming soon.
 
 Questions or issues? Join the Discord: https://discord.gg/tgBPcsZfyw
 
-If Wabbajack give you this failure:
-
-<img src="https://raw.githubusercontent.com/FirebirdGaming/Images/main/Wabbajack%20fail%201.png">
-
-You will need to select show missing archives, which will bring up this:
-
-<img src="https://raw.githubusercontent.com/FirebirdGaming/Images/main/Wabbajack%20file%20fail.webp" alt="Wabbajack file fail">
-
-Select the Link page and manually download the file
-
-Once downloaded, put it in the downloads folder you selected for Skadi's Veil
