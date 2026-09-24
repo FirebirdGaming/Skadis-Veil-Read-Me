@@ -8,7 +8,9 @@ roster of fully-voiced followers, expanded creature variety, and beloved quest m
 (Legacy of the Dragonborn, Vigilant, Forgotten City, Project AHO) round out a world that feels alive and
 dangerous.
 
-**Status:** Work in progress. Full readme coming soon.
+**Status:** Work in progress - Expect bugs and glitches.
+
+Full readme coming soon.
 
 Questions or issues? Join the Discord: https://discord.gg/tgBPcsZfyw
 
