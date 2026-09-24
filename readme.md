@@ -8,7 +8,7 @@ Questions or issues? Join the Discord: https://discord.gg/tgBPcsZfyw
 
 If Wabbajack give you this failure:
 
-<img src="https://raw.githubusercontent.com/FirebirdGaming/Images/main/Wabbajack%20fail%201.png>
+<img src="https://raw.githubusercontent.com/FirebirdGaming/Images/main/Wabbajack%20fail%201.png">
 
 You will need to select show missing archives, which will bring up this:
 
