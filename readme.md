@@ -6,7 +6,11 @@ A visually stunning, heavily curated Skyrim overhaul built for immersion — gor
 
 Questions or issues? Join the Discord: https://discord.gg/tgBPcsZfyw
 
-If you get the following missing files link, from a failed isntall
+If Wabbajack give you this failure:
+
+<img src="https://raw.githubusercontent.com/FirebirdGaming/Images/main/Wabbajack%20fail%201.png>
+
+You will need to select show missing archives, which will bring up this:
 
 <img src="https://raw.githubusercontent.com/FirebirdGaming/Images/main/Wabbajack%20file%20fail.webp" alt="Wabbajack file fail">
 
